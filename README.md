@@ -1,2 +1,5 @@
 # maaba
-A chrome extension is a chrome extension that reminds the user to mark in and out at work.
+A  chrome extension I created for me and my colleagues at my former place of work that reminds us in and out of work.
+## Tech Stack
+- JavaScript
+
